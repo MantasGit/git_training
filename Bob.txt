@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hi! I'm Bob. I've been here for a while now.
-=======
->>>>>>> bobby_branch
-Second line of Bob.
